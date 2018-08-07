@@ -1,6 +1,6 @@
 # cinema-project
 
-### Cart
+### Screenshot 1
 ![Alt text](https://github.com/bagasssss/vue-cinema-order-portal/blob/master/images/Screenshot_1.jpg "Main")
 
 ## Project setup
